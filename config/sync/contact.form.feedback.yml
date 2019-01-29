@@ -1,0 +1,14 @@
+uuid: ee422abc-b3ba-4c94-89c0-efd8dfe0d3a6
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vymHlgJy26BuI5GGj9-IXjwR3dRC5C0tij4BpWJnoqw
+id: feedback
+label: 'Website feedback'
+recipients:
+  - a7xalen@gmail.com
+reply: ''
+weight: 0
+message: 'Your message has been sent.'
+redirect: ''

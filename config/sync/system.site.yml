@@ -1,0 +1,14 @@
+uuid: 303abdc1-be69-4279-8606-96a9d1df24dd
+name: misite
+mail: a7xalen@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
